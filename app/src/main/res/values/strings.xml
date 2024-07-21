@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Children Story</string>
+    <string-array name="size">
+        <item>150-200</item>
+        <item>200-400</item>
+        <item>400-500</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Urdu</item>
+        <item>Arabic</item>
+    </string-array>
+</resources>
